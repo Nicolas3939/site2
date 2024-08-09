@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <div class="logo">MeuSiteGames</div>
+        <div class="logo">stem</div>
         <nav>
             <a href="#">Loja</a>
             <a href="#">Biblioteca</a>
